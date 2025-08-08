@@ -13,7 +13,7 @@ The **HR Analytics Dashboard** visualizes attrition patterns, demographics, job 
 ---
 
  📑 Table of Contents
-- [Overview](#-overview)
+- (#-overview)
 - [Demographic Analytics](#-demographic-analytics)
 - [Purpose](#-purpose)
 - [Tools Used](#-tools-used)
