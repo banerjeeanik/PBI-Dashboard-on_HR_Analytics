@@ -12,17 +12,6 @@ The **HR Analytics Dashboard** visualizes attrition patterns, demographics, job 
 
 ---
 
- 📑 Table of Contents
-- (#-overview)
-- [Demographic Analytics](#-demographic-analytics)
-- [Purpose](#-purpose)
-- [Tools Used](#-tools-used)
-- [Power BI Dashboard Features](#-power-bi-dashboard-features)
-- [Key Insights](#-key-insights)
-- [Dataset](#-dataset)
-
-
----
 
  📌 Overview
  
